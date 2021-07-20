@@ -31,5 +31,5 @@ to this "handouts" folder. The result should be a subdirectory called
 ## Collaborators
 
 - Quentin Read (SESYNC)
-- Mary Glover (Bowie State University)
+- Mary Glover (Bowie State University)dddddd
 - dfsdfdfddddd
